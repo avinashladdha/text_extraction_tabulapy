@@ -1,0 +1,47 @@
+"S.No.","Name of theManufacturer","Location of ManufacturingFacility","BISRegistrationNo.","EnlistedCapacity(MWs / Year)","S.No..1",Type of  Module,Applied Model,Enlisted Models,"ModuleEfficiency (%)",No. of Cells in Module,"SystemVoltage(in Volt)",Validity
+,,,,,,From,"To (subject to validBIS Registration;else deeemd to bedelisted)",,,,,
+i,"Bifacial N-TypeTOPCon Module(Glass To TransparentBacksheet)","MSE_560(560 Wp)",MSE_535,20.71,144 (Half Cut Cell),1500,,,,,,
+,,MSE_540,20.90,,,,,,,,,
+,,MSE_545,21.10,,,,,,,,,
+,,MSE_550,21.29,,,,,,,,,
+,,MSE_555,21.48,,,,,,,,,
+,,MSE_560,21.68,,,,,,,,,
+,,MSE_565,21.87,,,,,,,,,
+,,MSE_570,22.07,,,,,,,,,
+,,MSE_575,22.26,,,,,,,,,
+,,MSE_580,22.45,,,,,,,,,
+ii,"Bifacial N-TypeTOPCon Module(Glass To TransparentBacksheet)","MSE_515(515 Wp)",MSE_500,21.08,132 (Half Cut Cell),1500,,,,,,
+,,MSE_505,21.29,,,,,,,,,
+,,MSE_510,21.50,,,,,,,,,
+,,MSE_515,21.71,,,,,,,,,
+,,MSE_520,21.92,,,,,,,,,
+,,MSE_525,22.13,,,,,,,,,
+,,MSE_530,22.34,,,,,,,,,
+iii,"Bifacial N-TypeTOPCon Module(Glass To TransparentBacksheet)","MSE_480(480 Wp)",MSE_460,21.26,120 (Half Cut Cell),1500,,,,,,
+,,MSE_465,21.49,,,,,,,,,
+,,MSE_470,21.72,,,,,,,,,
+,,MSE_475,21.95,,,,,,,,,
+,,MSE_480,22.18,,,,,,,,,
+,,MSE_485,22.42,,,,,,,,,
+,,MSE_490,22.65,,,,,,,,,
+,,MSE_495,22.88,,,,,,,,,
+iv,"Bifacial N-TypeTOPCon Module(Glass To TransparentBacksheet)","MSE_405(405 Wp)",MSE_405,20.74,108 (Half Cut Cell),1500,,,,,,
+v,"Bifacial N-TypeTOPCon Module(Glass To TransparentBacksheet)","MSE_430(430 Wp)",MSE_410,21.0,108 (Half Cut Cell),1500,,,,,,
+,,MSE_415,21.25,,,,,,,,,
+,,MSE_420,21.51,,,,,,,,,
+,,MSE_425,21.76,,,,,,,,,
+,,MSE_430,22.02,,,,,,,,,
+,,MSE_435,22.28,,,,,,,,,
+,,MSE_440,22.53,,,,,,,,,
+,,MSE_445,22.79,,,,,,,,,
+,,MSE_450,23.04,,,,,,,,,
+vi,"Bifacial N-TypeTOPCon Module(Glass To TransparentBacksheet)","MSE_355(355 Wp)",MSE_355,20.35,96 (Half Cut Cell),1500,,,,,,
+vii,"Bifacial N-TypeTOPCon Module(Glass To TransparentBacksheet)","MSE_375(375 Wp)",MSE_360,20.64,96 (Half Cut Cell),1500,,,,,,
+MSE_365,20.93,,,,,,,,,,,
+MSE_370,21.21,,,,,,,,,,,
+MSE_375,21.50,,,,,,,,,,,
+MSE_380,21.79,,,,,,,,,,,
+MSE_385,22.07,,,,,,,,,,,
+MSE_390,22.36,,,,,,,,,,,
+MSE_320,20.87,,,,,,,,,,,
+MSE_325,21.20,,,,,,,,,,,
